@@ -1,0 +1,31 @@
+.highlight .comment, .highlight .prolog, .highlight .doctype, .highlight .cdata {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .namespace {
+  opacity: .7;
+}
+.highlight .string, .highlight .attr-value {
+  color: #e3116c;
+}
+.highlight .punctuation, .highlight .operator {
+  color: #393A34;
+}
+.highlight .entity, .highlight .url, .highlight .symbol, .highlight .number, .highlight .boolean, .highlight .variable, .highlight .constant, .highlight .property, .highlight .regex, .highlight .inserted {
+  color: #36acaa;
+}
+.highlight .atrule, .highlight .keyword, .highlight .attr-name, .language-autohotkey .selector {
+  color: #00a4db;
+}
+.highlight .function, .highlight .deleted, .language-autohotkey .tag {
+  color: #9a050f;
+}
+.highlight .tag, .highlight .selector, .language-autohotkey .keyword {
+  color: #00009f;
+}
+.highlight .important, .highlight .function, .highlight .bold {
+  font-weight: bold;
+}
+.highlight .italic {
+  font-style: italic;
+}
